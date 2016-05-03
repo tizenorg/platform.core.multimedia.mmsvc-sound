@@ -78,6 +78,11 @@ enum {
 #define PARAM_RET           "ret"
 
 /**
+ * @brief Definition for the api parameter.
+ */
+#define PARAM_API          "api"
+
+/**
  * @brief Definition for the event parameter.
  */
 #define PARAM_EVENT         "event"

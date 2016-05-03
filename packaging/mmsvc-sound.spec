@@ -1,6 +1,6 @@
 Name:       mmsvc-sound
 Summary:    A sound module for muse server
-Version:    0.0.1
+Version:    0.0.2
 Release:    0
 Group:      Multimedia/Libraries
 License:    Apache-2.0
